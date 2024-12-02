@@ -1,3 +1,8 @@
+[web_servers]
 tony1@192.168.56.3
+
+[db_servers]
 tony2@192.168.56.4
+
+[file_servers]
 tony@192.168.56.5
