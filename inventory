@@ -6,3 +6,6 @@ tony2@192.168.56.4
 
 [file_servers]
 tony@192.168.56.5
+
+[workstations]
+192.168.0.189
